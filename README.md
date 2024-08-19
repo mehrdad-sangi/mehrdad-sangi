@@ -42,6 +42,6 @@ I am a lead Data Scientist at ZEIL!
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
 
-[![Mehrdad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mesa1014)](https://github.com/anuraghazra/github-readme-stats)
+[![Mehrdad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehrdad-sangi)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mesa1014&layout=compact)](https://github.com/mesa1014)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehrdad-sangi&layout=compact)](https://github.com/mehrdad-sangi)
